@@ -1,7 +1,7 @@
 domain: hitsumabushi845.github.io
 layout:
 - go.kubebuilder.io/v3
-projectName: workspace
+projectName: advent-calendar-webhook
 repo: advent-calendar-webhook
 resources:
 - group: core
